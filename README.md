@@ -25,5 +25,5 @@ Control discount prices so that prices are not pushed below cost.
 # Author
 Motaung Faith
 Data Analyst
-<img width="1865" height="846" alt="image" src="https://github.com/user-attachments/assets/a82fc900-6985-4ec9-a7bc-4344dd8fd609" />
+
 
