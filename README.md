@@ -12,12 +12,12 @@ Analysis of the daily trading information for a large retail store, aggregated f
 # Tools and Technologies used
 - MIRO for data planning
 - Databricks to analyse the data using sql querries
-- tMicrosoft excel to create graphs and Tables
+- Microsoft excel to create graphs and Tables
 - Powerpoint presentation
 - Github to load the final presentation
 - # Key Findings
 Sales declined steadily from 2014 to 2016. Similarly the quantities sold also declined which could be to a
--shrinking demand or reduced operations.
+shrinking demand or reduced operations.
 -All the years show negative profit margins with 2015 being the worst at (-6.34%)
 -The discount periods were identified as the periods when high quantities were sold.
 -All the discount dates identified, 
