@@ -18,13 +18,7 @@ Analysis of the daily trading information for a large retail store, aggregated f
 - # Key Findings
 Sales declined steadily from 2014 to 2016. Similarly the quantities sold also declined which could be to a
 shrinking demand or reduced operations.
--All the years show negative profit margins with 2015 being the worst at (-6.34%)
--The discount periods were identified as the periods when high quantities were sold.
--All the discount dates identified, 
-showed losses suggesting that discounts were too aggressive or costs were not controlled.
 # Recommendations:
-Review pricing strategy and cost structure
-Optimize production cost
 Analyse customer behaviour
 Negotiate better discount terms rather than applying blanket discounts
 Control discount prices so that prices are not pushed below cost.
